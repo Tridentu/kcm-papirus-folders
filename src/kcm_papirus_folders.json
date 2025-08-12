@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Description": "Configure Folder Color",
+        "FormFactors": [
+            "desktop",
+            "handset",
+            "tablet",
+            "mediacenter"
+        ],
+        "Icon": "folder-nordic",
+        "Name": "Folder Colors"
+    },
+    "X-KDE-Keywords": "Folders,Desktop,Colors,Theme",
+    "X-KDE-System-Settings-Parent-Category": "personalization"
+}

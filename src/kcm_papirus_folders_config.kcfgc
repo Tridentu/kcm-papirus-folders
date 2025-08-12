@@ -1,0 +1,6 @@
+File=kcm_papirus_folders_config.kcfg
+NameSpace=PapirusFolders
+ClassName=Config
+Mutators=true
+ParentInConstructor=true
+GenerateProperties=true

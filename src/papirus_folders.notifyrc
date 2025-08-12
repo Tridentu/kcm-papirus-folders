@@ -1,0 +1,16 @@
+[Global]
+IconName=folder-blue
+Name=Papirus Folder Settings
+Comment=The Papirus Folders KCM
+
+[Event/folderColorSaved]
+Name=Folder Color Saved
+Comment=Your preferred Papirus folder color has been saved.
+Action=Sound|Popup
+Sound=message-sent-email
+
+[Event/folderColorNotSaved]
+Name=Folder Color Save Failed
+Comment=Your preferred Papirus folder color has failed to save.
+Action=Sound|Popup
+Sound=dialog-error
